@@ -33,6 +33,9 @@ def get_filters():
         else:
             print('Please enter valid city.')
     # Get user to filter by month, day, or none.
+    # Get user to filter by month, day, or none.
+    # Get user to filter by month, day, or none.
+    # Get user to filter by month, day, or none.
     print("Get user to filter by month, day, or none.")
     while True:
         choice = input("Would you like to filter the data by month, day, or none?\n").lower()
